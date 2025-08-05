@@ -11,7 +11,7 @@ I focus on combining **Python, FastAPI, React/Next.js**, and **MariaDB/PostgreSQ
 - 🚀 Developing internal tools for energy sector professionals
 - 🧠 Learning more about **system design** and **DevOps**
 - 🎮 Prototyping game concepts that teach **Python programming**
-- 🛠️ Building cross-platform apps with **Tauri** and **Flutter**
+- 🛠️ Building cross-platform apps with **Tauri**
 
 ---
 
