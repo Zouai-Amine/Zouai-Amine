@@ -65,13 +65,6 @@ I work comfortably with:
 
 ---
 
-## 🤝 Connect With Me
-
-- 🐙 GitHub: [@Zouai-Amine](https://github.com/Zouai-Amine)
-- 💬 Reach out to collaborate or share ideas!
-
----
-
 [![](https://visitcount.itsvg.in/api?id=Zouai-Amine&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
